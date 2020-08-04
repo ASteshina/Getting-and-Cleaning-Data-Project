@@ -35,7 +35,7 @@ standard deviation (std).
 
 ### Step 3: Use descriptive activities names for activity measurements
 
-The coded values for activity were changed to the activity name taken from second column of the activities variable.
+The coded values for activity were changed to the activity name taken from second column of **activities** variable.
 
 ### Step 4: Appropriately Label the Dataset with Descriptive Variable Names
 
