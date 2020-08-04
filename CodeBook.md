@@ -42,6 +42,7 @@ called **TidyData.txt**.
 Variables
 ---------
 
+-   **activities** - 6 observations (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) of 2 variables. 
 -   **MergedData** - Data sets with merged training and test sets. 10299 observations of 563 variables.
 -   **Data** - Data of only the measurements on the mean and standard
     deviation for each measurement, has descriptive activity names. 10299 observations of 88 variables.
