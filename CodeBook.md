@@ -4,6 +4,15 @@ Data:
 The data for the project was downloaded from:
 <a href="http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones" class="uri">http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones</a>
 
+-   **features** <- features.txt : 561 rows, 2 columns
+-   **activities** <- activity_labels.txt : 6 rows, 2 columns
+-   **subject_test** <- test/subject_test.txt : 2947 rows, 1 column
+-   **x_test** test/X_test.txt : 2947 rows, 561 columns
+-   **y_test** <- test/y_test.txt : 2947 rows, 1 columns
+-   **subject_train** <- test/subject_train.txt : 7352 rows, 1 column
+-   **x_train** <- test/X_train.txt : 7352 rows, 561 columns
+-   **y_train** <- test/y_train.txt : 7352 rows, 1 columns
+
 Processing
 ----------
 
