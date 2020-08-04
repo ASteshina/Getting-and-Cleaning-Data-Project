@@ -21,7 +21,11 @@ Processing
 Data was downloaded from the source files and read in with names
 corresponding to the source files. Test set data were combined with
 train set data using *rbind()*. Merged data set was then created using
-*cbind()*. Variable created: **Merged\_Data**
+*cbind()*.
+-   **X**  (10299 rows, 561 columns) is created by merging x_train and x_test using rbind()function
+-   **Y**  (10299 rows, 1 column) is created by merging y_train and y_test using rbind()function
+-   **Subject**  (10299 rows, 1 column) is created by merging subject_train and subject_test using rbind() function
+-   **Merged Data**  (10299 rows, 563 column) is created by merging Subject, Y and X using cbind() function
 
 ### Step 2: Extract only measurements on mean and standard deviation
 
