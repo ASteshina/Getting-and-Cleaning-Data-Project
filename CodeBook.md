@@ -42,8 +42,8 @@ called **TidyData.txt**.
 Variables
 ---------
 
--   **MergedData** - Data sets with merged training and test sets.
+-   **MergedData** - Data sets with merged training and test sets. 10299 observations of 563 variables.
 -   **Data** - Data of only the measurements on the mean and standard
-    deviation for each measurement, has descriptive activity names.
+    deviation for each measurement, has descriptive activity names. 10299 observations of 88 variables.
 -   **TidyData** - Data set with means of each variable grouped by
-    activity and subject.
+    activity and subject. 180 observations of 88 variables.
