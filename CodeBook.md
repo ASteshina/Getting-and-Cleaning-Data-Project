@@ -7,7 +7,7 @@ The data for the project was downloaded from:
 -   **features** <- features.txt : 561 rows, 2 columns
 -   **activities** <- activity_labels.txt : 6 rows, 2 columns
 -   **subject_test** <- test/subject_test.txt : 2947 rows, 1 column
--   **x_test** test/X_test.txt : 2947 rows, 561 columns
+-   **x_test** <- test/X_test.txt : 2947 rows, 561 columns
 -   **y_test** <- test/y_test.txt : 2947 rows, 1 columns
 -   **subject_train** <- test/subject_train.txt : 7352 rows, 1 column
 -   **x_train** <- test/X_train.txt : 7352 rows, 561 columns
