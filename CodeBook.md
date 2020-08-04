@@ -48,6 +48,7 @@ Variables
     deviation for each measurement, has descriptive activity names. 10299 observations of 88 variables.
 -   **TidyData** - Data set with means of each variable grouped by
     activity and subject. 180 observations of 88 variables:
+    
         [1] "activity"                                       
         [2] "subject"                                       
         [3] "TimeBodyAccelerometermeanX"                     
